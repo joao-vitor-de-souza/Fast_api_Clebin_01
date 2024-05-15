@@ -1,0 +1,6 @@
+instalação = pip install fastapi
+Criar venv = python -m venv .venv                                                                        
+Ativar a venv = .\.venv\Scripts\activate   
+Criação/Atualiza de Requirements =  pip freeze > .\requirements.txt      
+Instalação do requirements = pip install -r .\requirements.txt
+
